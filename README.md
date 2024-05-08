@@ -11,7 +11,9 @@ $$L = L_{DE} + L_{IC}$$
 
 # Step 1, Define the Loss function 
 
-$$L=\frac{1}{N}\sum_{i=1}^{N}{[\frac{dy_{pred}}{dt} \left. \right|_{i} +ky_{pred}(t_{i})}]^{2}+[y_{pred}(0)-1]^{2}$$
+$$L=\frac{1}{N}\sum_{i=1}^{N}{[\frac{dy_{pred}}{dt}  +ky_{pred}(t_{i})}]^{2}+[y_{pred}(0)-1]^{2}$$
+
+$$\left.\frac{\frac{1}{x}}{\frac{5}{1+\frac{x}{7}}}\right\vert_{-5}^{17}$$
 
 ```python
 import torch
