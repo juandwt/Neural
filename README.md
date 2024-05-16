@@ -1,3 +1,6 @@
+![alt text](wall.jpg)
+
+
 # PINN
 How's PINN work to solve DEO?
 
