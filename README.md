@@ -1,4 +1,4 @@
-![alt text](wall.jpg|400)
+![alt text](wall.jpg)
 
 
 # PINN
