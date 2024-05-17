@@ -131,3 +131,6 @@ plt.legend()
 #plt.savefig("grafica.png", format='png', dpi=300)
 plt.show()
 ```
+# Oscilador armónico cuántico 
+
+$\frac{d\Psi}{dx}=(y^{2}-\epsilon)\Psi$
