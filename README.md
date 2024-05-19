@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="800" height="500" src="gui.png">
+  <img width="850" height="500" src="gui.png">
 </p>
 
 # NN diagram constructed 
