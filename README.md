@@ -1,6 +1,5 @@
 ![alt text](gui.png)
-
-
+![alt text](NN.png)
 # PINN
 How's PINN work to solve DEO?
 
