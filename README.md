@@ -1,6 +1,9 @@
 # Gui 
 
-![alt text](gui.png)
+
+<p align="center">
+  <img width="460" height="300" src="gui.png">
+</p>
 
 # NN diagram constructed 
 
