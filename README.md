@@ -1,5 +1,4 @@
 ![alt text](gui.png)
-![alt text](NN.png)
 
 <p align="center">
   <img width="460" height="300" src="NN.png">
