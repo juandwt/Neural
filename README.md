@@ -1,9 +1,12 @@
+# Gui 
+
 ![alt text](gui.png)
+
+# NN diagram constructed 
 
 <p align="center">
   <img width="460" height="300" src="NN.png">
 </p>
-
 
 # PINN
 How's PINN work to solve DEO?
