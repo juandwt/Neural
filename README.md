@@ -140,4 +140,4 @@ plt.show()
 ```
 # Oscilador armónico cuántico 
 
-$$\frac{d\Psi}{dt}=(t^{2}-\epsilon)\Psi$$
+$$\frac{d^{2}\Psi}{dt^{2}}=(t^{2}-\epsilon)\Psi$$
