@@ -131,5 +131,5 @@ plt.show()
 $$ f(x, y)= x^{2} + y^{2 + 10} $$
 
 <p align="center">
-  <img width="460" height="300" src="graph.jpg">
+  <img width="560" height="400" src="graph.jpg">
 </p>
