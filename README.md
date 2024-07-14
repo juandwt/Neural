@@ -11,7 +11,7 @@
   <img width="460" height="300" src="NN.png">
 </p>
 
-#Implementacion del gradiente desencente 
+## Implementacion del gradiente desencente 
 
 ```python
 import numpy as np  
