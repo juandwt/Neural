@@ -142,7 +142,7 @@ plt.show()
 $$ z (x, y)  = sin(x) + cos(y) $$
 
 <p align="center">
-  <img width="560" height="400" src="graph.jpg">
+  <img width="560" height="400" src="sincos.jpg">
 </p>
 
 ```python
