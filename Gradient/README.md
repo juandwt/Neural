@@ -241,4 +241,13 @@ plt.show()
 
 ```
 
+# GD con momentum 
+
+<div style="display: flex; justify-content: center;">
+  <img src="f_1v.jpg" alt="Gradient Image" style="width: 460px; height: 300px; margin-right: 10px;">
+  <img src="f_1v_m.jpg" alt="G Image" style="width: 460px; height: 300px;">
+</div>
+
+
+
 
