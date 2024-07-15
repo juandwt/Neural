@@ -249,5 +249,48 @@ plt.show()
 </div>
 
 
+```python
+import numpy as np  
+import matplotlib.pyplot as plt 
+
+
+plt.rcParams['toolbar'] = 'none'
+color = {"black":"#000000", "green":"#488c2e", "purple":"#6a0606", "gray":"#b9b9b9"}
+
+x  = np.linspace(-10, 10, 1000)
+
+
+def f(x):
+    return x**2 + 10
+
+def df_dx(x):
+    return 2**x
+
+theta = 3
+lr    = 0.01
+v     = 0
+gamma = 0.5
+iter  = 61
+
+for i in range(iter):
+    gradient = df_dx(theta)
+    v        = gamma*v + lr*gradient
+    theta   -= v 
+
+print(f"({theta}, {f(theta)})")
+
+
+
+plt.plot(x, f(x), color=color["black"])
+plt.scatter(theta, f(theta), color=color["purple"])
+
+plt.axvline(0, color=color["gray"], linestyle='-', zorder=0)
+plt.axhline(0, color=color["gray"], linestyle='-', zorder=0)
+plt.title(f"with momentum and iter:{iter}")
+plt.savefig("f_1v_m.jpg")
+plt.show()
+```
+
+
 
 
