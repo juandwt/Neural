@@ -5,6 +5,10 @@
   <img width="950" height="450" src="gui.png">
 </p>
 
+<p align="center">
+  <img width="950" height="450" src="algoritm.png">
+</p>
+
 # NN diagram constructed 
 
 <p align="center">
