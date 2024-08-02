@@ -2,6 +2,14 @@
 
 Aquí está el video de demostración:
 
+[![Video de Demostración](https://github.com/juandwt/Neural/raw/main/gui.png)](https://github.com/juandwt/Neural/raw/main/video.mp4)
+
+
+
+# Mi Proyecto
+
+Aquí está el video de demostración:
+
 [Ver Video](https://github.com/juandwt/Neural/raw/main/video.mp4)
 
 
