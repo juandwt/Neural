@@ -1,17 +1,6 @@
 # Mi Proyecto
 
-Aquí está el video de demostración:
-
-[![Video de Demostración](https://github.com/juandwt/Neural/raw/main/gui.png)](https://github.com/juandwt/Neural/raw/main/video.mp4)
-
-
-
-# Mi Proyecto
-
-Aquí está el video de demostración:
-
-[Ver Video](https://github.com/juandwt/Neural/raw/main/video.mp4)
-
+https://github.com/user-attachments/assets/e1a03be2-2c94-4a56-a956-8eea33ea16c5
 
 # Gui 
 
