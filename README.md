@@ -1,3 +1,10 @@
+# Mi Proyecto
+
+Aquí está el video de demostración:
+
+[Ver Video](https://github.com/juandwt/Neural/raw/main/video.mp4)
+
+
 # Gui 
 
 
