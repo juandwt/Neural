@@ -24,11 +24,11 @@ The first steps of the Gui
 
 
 <p align="center">
-  <img width="700" height="400" src="/Images/window.jpg">
+  <img width="700" height="300" src="/Images/window.jpg">
 </p>
 
 <p align="center">
-  <img width="700" height="400" src="/Images/window2.jpg">
+  <img width="700" height="300" src="/Images/window2.jpg">
 </p>
 
 
