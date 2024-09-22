@@ -6,10 +6,10 @@ Desarrollo de un software educativo para aplicar el método variacional a divers
 
 ### Specific objetives 
 
-- [ ] Modificación del sistemas estudiado
-- [ ] Aplicación del método variacional
+- [x] Modificación del sistemas estudiado
+- [x] Aplicación del método variacional
 - [ ] Aplicación del GD con y sin momentum
-- [ ] Visualización de la densidad de probabilidad y la energía asociada al estado
+- [x] Visualización de la densidad de probabilidad y la energía asociada al estado
 
 
 # Mi Proyecto
@@ -18,9 +18,9 @@ Desarrollo de un software educativo para aplicar el método variacional a divers
 <!-- https://github.com/user-attachments/assets/e1a03be2-2c94-4a56-a956-8eea33ea16c5-->
 
 
-# Gui 
+# Version 1.0
 
-The first steps of the Gui 
+Permite visualizar una serie de potenciales en tres dimensiones. Actualmente, solo el oscilador armónico realiza el algoritmo completo de optimización de energía, con la opción de seleccionar distintas funciones de prueba y graficar la densidad de probabilidad. Además, facilita la visualización de los potenciales en diferentes espacios de memoria mediante el uso de pestañas, aunque en esta fase solo muestra el potencial.
 
 
 <p align="center">
@@ -31,4 +31,8 @@ The first steps of the Gui
   <img width="700" height="330" src="/Images/window2.jpg">
 </p>
 
+# Version 1.1
 
+Permitir estudiar el estado base de un sistema y su respectiva aplicación 
+
+- [ ] Potencial, optimización y aplicación 
