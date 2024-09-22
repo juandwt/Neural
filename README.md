@@ -14,7 +14,9 @@ Desarrollo de un software educativo para aplicar el método variacional a divers
 
 # Mi Proyecto
 
-https://github.com/user-attachments/assets/e1a03be2-2c94-4a56-a956-8eea33ea16c5
+<!-- COMENTARIO -->
+<!-- https://github.com/user-attachments/assets/e1a03be2-2c94-4a56-a956-8eea33ea16c5-->
+
 
 # Gui 
 
@@ -23,13 +25,4 @@ https://github.com/user-attachments/assets/e1a03be2-2c94-4a56-a956-8eea33ea16c5
   <img width="950" height="450" src="gui.png">
 </p>
 
-<p align="center">
-  <img width="950" height="450" src="algoritm.png">
-</p>
-
-# NN diagram constructed 
-
-<p align="center">
-  <img width="460" height="300" src="NN.png">
-</p>
 
