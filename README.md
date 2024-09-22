@@ -1,3 +1,11 @@
+## Degree Porject 
+
+### Main objetive
+
+Desarrollo de un software educativo para aplicar el método variacional a diversos sistemas cuánticos, utilizando el descenso por gradiente como herramienta de optimización.
+
+
+
 # Mi Proyecto
 
 https://github.com/user-attachments/assets/e1a03be2-2c94-4a56-a956-8eea33ea16c5
