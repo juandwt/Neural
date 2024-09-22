@@ -20,9 +20,15 @@ Desarrollo de un software educativo para aplicar el método variacional a divers
 
 # Gui 
 
+The first steps of the Gui 
+
 
 <p align="center">
-  <img width="950" height="450" src="gui.png">
+  <img width="950" height="450" src="/Images/windwo.jpg">
+</p>
+
+<p align="center">
+  <img width="950" height="450" src="/Images/windwo2.jpg">
 </p>
 
 
