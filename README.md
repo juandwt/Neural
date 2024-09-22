@@ -58,3 +58,7 @@ plt.axhline(0, color=color["gray"], linestyle='-', zorder=0)
 plt.show()
 
 ```
+
+- [ ] Tarea pendiente
+- [x] Tarea completada
+
