@@ -36,7 +36,8 @@ Permite visualizar una serie de potenciales en tres dimensiones. Actualmente, so
 Permitir estudiar el estado base de un sistema y su respectiva aplicación 
 
 - [ ] Potencial, optimización y aplicación
-- [ ] Método variacional niveles exitados 
+- [ ] Método variacional niveles exitados
+- [ ] Instalador
 
 <p align="center">
   <img width="700" height="330" src="/version1.1/version1.1.jpg">
