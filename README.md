@@ -43,3 +43,7 @@ Permitir estudiar el estado base de un sistema y su respectiva aplicación
   <img width="700" height="330" src="/version1.1/version1.1.jpg">
 </p>
 
+<p align="center">
+  <img width="700" height="330" src="/version1.1/instalador.jpg">
+</p>
+
